@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.valid {
+    color: blue;
+}
+
+.warning {
+    color: orange !important;
+}
+
+.invalid {
+    color: red !important;
+}
+
+.disable {
+    background-color: #ccc !important;
+    opacity: 0.9 !important;
+    pointer-events: none;
+}

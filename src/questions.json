@@ -1,0 +1,322 @@
+[
+    {
+        "question":"Who invented HTML?",
+        "A":"Dave Raggett",
+        "B":"Tim Berners-Lee",
+        "C":"Denis Ritchie",
+        "D":"All of the above",
+        "answer":"Tim Berners-Lee"
+    },
+    {
+        "question":"Which HTML tag is used to define text with strong importance?",
+        "A":"strong tag",
+        "B":"bold tag",
+        "C":"bolder tag",
+        "D":"All of the above",
+        "answer":"strong tag"
+    },
+    {
+        "question":"Which HTML tag is used to define underline inserted text?",
+        "A":"underline",
+        "B":"text-decoration",
+        "C":"ins tag",
+        "D":"u tag",
+        "answer":"ins tag"
+    },
+    {
+        "question":"Which HTML tag is used to define subscript text?",
+        "A":"sub tag",
+        "B":"subscript tag",
+        "C":"sup tag",
+        "D":"s tag",
+        "answer":"sub tag"
+    },
+    {
+        "question":"Which HTML tag is used to define an abbreviation or an acronym?",
+        "A":"abbr tag",
+        "B":"abbrivation tag",
+        "C":"acronym tag",
+        "D":"acro tag",
+        "answer":"abbr tag"
+    },
+    {
+        "question":"Which element/tag defines a paragraph?",
+        "A":"p tag",
+        "B":"pre tag",
+        "C":"panel tag",
+        "D":"None of the above",
+        "answer":"p tag"
+    },
+    {
+        "question":"Which tag contains the meta information about the HTML page?",
+        "A":"html tag",
+        "B":"body tag",
+        "C":"head tag",
+        "D":"title tag",
+        "answer":"head tag"
+    },
+    {
+        "question":"HTML tags with no content are called _____.",
+        "A":"Special tag",
+        "B":"Advanced tags",
+        "C":"Empty tags",
+        "D":"Other tags",
+        "answer":"Empty tags"
+    },
+    {
+        "question":"HTML headings are defined with the _____ tags.",
+        "A":"head1 to head6",
+        "B":"h1 to h6",
+        "C":"p1 to p6",
+        "D":"h1 to h4",
+        "answer":"h1 to h6"
+    },
+    {
+        "question":"Which tag is used to define preformatted text?",
+        "A":"pre tag",
+        "B":"pf tag",
+        "C":"p1 tag",
+        "D":"p tag",
+        "answer":"pre tag"
+    },
+    {
+        "question":"What is CSS stands for?",
+        "A":"Cascading Style Sheets",
+        "B":"Cascade Style Sheet",
+        "C":"Color Style Sheets",
+        "D":"Color Style Sheet",
+        "answer":"Cascading Style Sheets"
+    },
+    {
+        "question":"Inline styles are written within the _____ attribute.",
+        "A":"css",
+        "B":"style",
+        "C":"href",
+        "D":"link",
+        "answer":"style"
+    },
+    {
+        "question":"CSS comments are placed within the ______.",
+        "A":"//",
+        "B":"<!---------->",
+        "C":"/* and */",
+        "D":"<! and !>",
+        "answer":"/* and */"
+    },
+    {
+        "question":"To make a text italic, which CSS property is used?",
+        "A":"font",
+        "B":"font-family",
+        "C":"font-style",
+        "D":"font-weight",
+        "answer":"font-style"
+    },
+    {
+        "question":"What is the correct syntax of border property in CSS?",
+        "A":"border: border-width border-style border-color",
+        "B":"border: border-color border-width border-style",
+        "C":"border: border-style border-width border-color",
+        "D":"All",
+        "answer":"border: border-width border-style border-color"
+    },
+    {
+        "question":"HTML elements are positioned ___ by default.",
+        "A":"fixed",
+        "B":"relative",
+        "C":"static",
+        "D":"none",
+        "answer":"static"
+    },
+    {
+        "question":"Which CSS property specifies an image as the list item marker?",
+        "A":"list-style-image",
+        "B":"list-style-picture",
+        "C":"list-style-background",
+        "D":"list-style-bgimage",
+        "answer":"list-style-image"
+    },
+    {
+        "question":"Which is the correct CSS statement to capitalize the first letter of each word?",
+        "A":"text-transform: uppercase",
+        "B":"text-transform: capitalize",
+        "C":"text-transform: sentence",
+        "D":"A and B",
+        "answer":"text-transform: capitalize"
+    },
+    {
+        "question":"Which CSS property adds shadow to text?",
+        "A":"content-shadow",
+        "B":"text-shadow",
+        "C":"word-shadow",
+        "D":"text-outline",
+        "answer":"text-shadow"
+    },
+    {
+        "question":"Which CSS property is used to specify the space between the words in a text?",
+        "A":"word-spacing",
+        "B":"word-padding",
+        "C":"word-height",
+        "D":"characters-spacing",
+        "answer":"word-spacing"
+    },
+    {
+        "question":"What is Javascript?",
+        "A":"Javascript is a scripting language used to make the website interactive",
+        "B":"Javascript is an assembly language used to make website interactive",
+        "C":"Javascript is a compiled language used to make website interactive",
+        "D":"None of the above",
+        "answer":"Javascript is a scripting language used to make the website interactive"
+    },
+    {
+        "question":"Which of the following is javascript data types?",
+        "A":"Null",
+        "B":"Undefined",
+        "C":"Number",
+        "D":"All",
+        "answer":"All"
+    },
+    {
+        "question":"Which of the follwing keyword is used to define a variable in JS",
+        "A":"var",
+        "B":"let",
+        "C":"const",
+        "D":"All",
+        "answer":"All"
+    },
+    {
+        "question":"Which of the following method is used to access HTML elements using JS",
+        "A":"getElementById()",
+        "B":"getElementByClassName()",
+        "C":"Both",
+        "D":"None of these",
+        "answer":"Both"
+    },
+    {
+        "question":"When the operator value is NULL, the typeof returned by the unary operator is",
+        "A":"Boolean",
+        "B":"Undefined",
+        "C":"Object",
+        "D":"Integer",
+        "answer":"Object"
+    },
+    {
+        "question":"The const keyword is used to define a ______.",
+        "A":"Function scopes variable",
+        "B":"Block scopes variable",
+        "C":"Constant",
+        "D":"Constant with no initial value",
+        "answer":"Constant"
+    },
+    {
+        "question":"Which is the exponentiation operator in JavaScript?",
+        "A":"exp()",
+        "B":"**",
+        "C":"^",
+        "D":"Power",
+        "answer":"**"
+    },
+    {
+        "question":"JavaScript objects are written with _____.",
+        "A":"round brackets ()",
+        "B":"curly brackets {}",
+        "C":"square brackets []",
+        "D":"double quotes",
+        "answer":"curly brackets {}"
+    },
+    {
+        "question":"Which JavaScript operator is used to determine the type of a variable?",
+        "A":"typeof",
+        "B":"Typeof",
+        "C":"TypeOf",
+        "D":"sizeOf",
+        "answer":"typeof"
+    },
+    {
+        "question":"Which property is used to get the length of a string in JavaScript?",
+        "A":"len",
+        "B":"strlen",
+        "C":"Length",
+        "D":"length",
+        "answer":"length"
+    },
+    {
+        "question":"Which of the follwing is used in React.js to increase performence?",
+        "A":"Virtual DOM",
+        "B":"Original DOM",
+        "C":"Both",
+        "D":"None",
+        "answer":"Virtual DOM"
+    },
+    {
+        "question":"What is React JS",
+        "A":"Server-side Framework",
+        "B":"to build user interface",
+        "C":"both",
+        "D":"none",
+        "answer":"to build user interface"
+    },
+    {
+        "question":"What is Babel",
+        "A":"Javascript Compiler",
+        "B":"Javascript Interpreter",
+        "C":"Javascript Transpiler",
+        "D":"None",
+        "answer":"Javascript Compiler"
+    },
+    {
+        "question":"Which command is used to create a react app",
+        "A":"npm install create-react-app",
+        "B":"npm install -g create-react-app",
+        "C":"install -g create-react-app",
+        "D":"npm create-react-app",
+        "answer":"npm install -g create-react-app"
+    },
+    {
+        "question":"Which of the following port is default where webpack-dev-server runs?",
+        "A":"3000",
+        "B":"300",
+        "C":"3306",
+        "D":"8080",
+        "answer":"8080"
+    },
+    {
+        "question":"A state in React.js is also known as?",
+        "A":"The internal storage of the component",
+        "B":"The external storage of the component",
+        "C":"Permonent storage",
+        "D":"All",
+        "answer":"The internal storage of the component"
+    },
+    {
+        "question":"What are arbitrary inputs of components in react also known as?",
+        "A":"elements",
+        "B":"state",
+        "C":"keys",
+        "D":"props",
+        "answer":"8080"
+    },
+    {
+        "question":"In MVC, what does React.js act as?",
+        "A":"middleware",
+        "B":"view",
+        "C":"model",
+        "D":"controller",
+        "answer":"view"
+    },
+    {
+        "question":"Using which of the following command can prevent default behaviour at in react?",
+        "A":"preventDefault()",
+        "B":"avoidDefault()",
+        "C":"revokeDefault()",
+        "D":"none",
+        "answer":"preventDefault()"
+    },
+    {
+        "question":"Identify the smallest building block of React.JS.",
+        "A":"props",
+        "B":"elements",
+        "C":"components",
+        "D":"All",
+        "answer":"components"
+    }
+]
